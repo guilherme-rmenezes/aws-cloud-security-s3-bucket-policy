@@ -35,6 +35,9 @@ O laboratório continha:
 ### Interação entre policies baseadas em identidade e recurso
 ![Identity vs Resource](docs/resource-and-role.png)
 
+### Arquitetura final e fluxo completo de permissões
+![Arquitetura final](docs/end-arch.png)
+
 ## Testes realizados
 
 ### Acesso EC2
